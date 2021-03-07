@@ -1,6 +1,6 @@
-# **landing-page**
-## Landing page example using HTML &amp; CSS &amp; Fontawesome
-###  . HTML
-#### . Css
-##### . Font Wesome
-link for the live project:[My Website]()
+**landing-page**
+**Landing Page example using :**
+## . HTML
+## . Css
+## . Font Wesome
+## . link for the project:[My Website]( https://amani-abt.github.io/landing-page/.)
