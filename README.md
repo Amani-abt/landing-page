@@ -1,6 +1,6 @@
 # **landing-page**
 **This webpage made to provie information about KYTC Khan Younis Traning**
-**TECHNIQUES:**
+# **TECHNIQUES:**
 ## . HTML
 ## . Css
 ## . HTML5
